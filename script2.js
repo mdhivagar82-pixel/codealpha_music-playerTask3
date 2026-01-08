@@ -6,8 +6,7 @@ const volume = document.getElementById("volume");
 
 const songs = [
     { name: "Song One", artist: "Artist A", src: "songs/song1.mp3" },
-    { name: "Song Two", artist: "Artist B", src: "songs/song2.mp3" },
-    { name: "Song Three", artist: "Artist C", src: "songs/song3.mp3" }
+    { name: "Song Two", artist: "Artist B", src: "songs/song2.mp3" }
 ];
 
 let songIndex = 0;
