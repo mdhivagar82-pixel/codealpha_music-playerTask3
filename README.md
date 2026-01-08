@@ -4,7 +4,7 @@ A simple and interactive **Music Player** built using **HTML, CSS, and JavaScrip
 
 ## 🔗 Live Demo
 👉 Click here to view the live project:  
-**https://mdhivagar82-pixel.github.io/codealpha_music-player/**
+**https://mdhivagar82-pixel.github.io/codealpha_music-playerTask3/**
 
 ##  Features
 - Play / Pause music
